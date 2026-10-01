@@ -1,3 +1,7 @@
+---
+title: Prologue
+language: en
+---
 # PROLOGUE
 
 **Terra is a world alive with Aethra.**

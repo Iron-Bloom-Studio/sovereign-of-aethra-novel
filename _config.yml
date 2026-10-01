@@ -1,0 +1,21 @@
+title: Sovereign of Aethra
+description: An Illustrated Fantasy Novel by Ironbloom Studio.
+url: https://iron-bloom-studio.github.io
+baseurl: /sovereign-of-aethra-novel
+wiki_url: https://iron-bloom-studio.github.io/sovereign-of-aethra-wiki/
+markdown: kramdown
+permalink: pretty
+collections:
+  chapters:
+    output: true
+    permalink: /read/:path/
+defaults:
+  - scope:
+      path: ""
+      type: chapters
+    values:
+      layout: reader
+      public: true
+      volume: 1
+      chapter_id: prologue
+      type: Prologue
