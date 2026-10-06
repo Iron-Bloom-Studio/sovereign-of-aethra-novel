@@ -1,6 +1,8 @@
 ---
 title: Prolog
 language: id
+next_url: /read/id/chapter-01/
+next_label: "Chapter 1"
 ---
 # PROLOGUE
 

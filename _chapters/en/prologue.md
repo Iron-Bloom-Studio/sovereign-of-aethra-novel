@@ -1,6 +1,8 @@
 ---
 title: Prologue
 language: en
+next_url: /read/en/chapter-01/
+next_label: "Chapter 1"
 ---
 # PROLOGUE
 
