@@ -5,6 +5,8 @@ chapter_id: chapter-01
 type: Chapter 1
 previous_url: /read/en/prologue/
 previous_label: Prologue
+next_url: /read/en/chapter-02/
+next_label: "Chapter 2"
 ---
 # Chapter 1: The Road Beyond Home
 
