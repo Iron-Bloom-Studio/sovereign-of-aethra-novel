@@ -1,0 +1,5 @@
+---
+layout: default
+title: Table of Contents
+---
+<section class="page toc-page"><p class="eyebrow">Volume I</p><div class="toc-heading"><h1>Table of Contents</h1><span>4 parts available</span></div><div class="language-tabs" aria-label="Choose language"><a href="{{ '/read/' | relative_url }}">Bahasa Indonesia</a><a class="active" aria-current="page" href="{{ '/read/en/' | relative_url }}">English</a></div><div class="toc-table-wrap"><table class="chapter-table"><thead><tr><th>Chapter</th><th>Title</th></tr></thead><tbody><tr><td>Prologue</td><td><a href="{{ '/read/en/prologue/' | relative_url }}">The Battle of Asteron</a></td></tr><tr><td>Chapter 1</td><td><a href="{{ '/read/en/chapter-01/' | relative_url }}">The Road Beyond Home</a></td></tr><tr><td>Chapter 2</td><td><a href="{{ '/read/en/chapter-02/' | relative_url }}">The City Without a Crown</a></td></tr><tr><td>Chapter 3</td><td><a href="{{ '/read/en/chapter-03/' | relative_url }}">The Adventurer’s Mark</a></td></tr></tbody></table></div></section>
