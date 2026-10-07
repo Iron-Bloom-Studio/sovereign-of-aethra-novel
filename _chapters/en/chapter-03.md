@@ -5,6 +5,8 @@ chapter_id: chapter-03
 type: Chapter 3
 previous_url: /read/en/chapter-02/
 previous_label: "Chapter 2"
+next_url: /read/en/chapter-04/
+next_label: "Chapter 4"
 ---
 # Chapter 3: The Adventurer’s Mark
 
