@@ -1,5 +1,5 @@
 ---
-title: Prolog
+title: Prologue
 language: id
 next_url: /read/id/chapter-01/
 next_label: "Chapter 1"
@@ -324,16 +324,19 @@ Pintu terbuka.
 
 Rolan menoleh.
 
-Seorang pria berzirah putih keperakan berdiri di ambang pintu. Rambut
-cokelatnya berantakan karena perjalanan. Bekas luka melintasi sisi kiri
-wajahnya, melewati daerah mata tanpa merusak penglihatannya.
+Seorang pria dengan pakaian Adventurer kelas tinggi berdiri di ambang
+pintu. Mantel biru tua bertepi emas jatuh di atas tunik dan sabuk-sabuk
+perlengkapannya. Pelindung logam menutupi bahu, lengan bawah, dan kaki,
+tanpa membatasi geraknya seperti zirah penuh. Rambut cokelatnya
+berantakan karena perjalanan. Bekas luka melintasi sisi kiri wajahnya,
+melewati daerah mata tanpa merusak penglihatannya.
 
 Garling.
 
 Empat puluh tujuh Adventurer berdiri di belakangnya.
 
 Namun perhatian semua orang justru tertuju pada cahaya samar yang
-terlihat dari celah zirah di dekat bahunya.
+terlihat di sela pelindung bahunya.
 
 Sebuah pola bercahaya terukir pada kulitnya.
 
@@ -1138,17 +1141,36 @@ Sosok itu semakin dekat.
 
 Barulah mereka dapat melihatnya dengan jelas.
 
-Tubuhnya menjulang bahkan di antara para Ogre.
+Tubuhnya menjulang hingga hampir tiga meter, lebih tinggi daripada
+setiap sosok di sekelilingnya.
 
 Kulit merah tua.
 
 Rambut panjang putih keperakan.
 
-Dua tanduk hitam tumbuh dari kepalanya.
+Dua tanduk hitam pekat tumbuh dari kepalanya.
 
 Zirah gelap berlapis menutupi tubuhnya yang besar dan berotot.
 
 Sebuah kanabō raksasa berada di tangannya.
+
+Empat sosok mengikuti beberapa langkah di belakangnya.
+
+Mereka lebih kecil daripada dirinya, tetapi tak seorang pun di atas
+tembok menyangka mereka Orc ataupun Ogre.
+
+Tanduk. Zirah perang. Cara para prajurit Beta memberi jalan.
+
+Empat Oni.
+
+Empat jenderal yang selama ini tidak perlu memperlihatkan diri di garis
+depan.
+
+Seorang perwira di samping Rolan berbisik, "Jadi dia bukan satu-satunya."
+
+"Tidak," jawab Rolan.
+
+Dan keempatnya masih membawa senjata.
 
 Ia berhenti.
 
@@ -1227,6 +1249,59 @@ Serangan terakhir dimulai.
 
 ------------------------------------------------------------------------
 
+Rolan sedang memindahkan pemanah ke tembok barat ketika ia melihat tanah
+di depan benteng bergerak.
+
+Bukan karena derap ribuan kaki.
+
+Satu garis tipis membelah tanah, lalu merambat ke arah fondasi tembok.
+
+Ia mengangkat teropongnya dan mencari sumbernya di balik barisan Beta.
+
+Jauh di selatan, di sebuah bukit yang belum tersentuh pertempuran, tiga
+sosok berdiri terpisah dari pasukan lain.
+
+Dari jarak itu, mereka hanya tampak sebagai siluet.
+
+Dua sosok di sisi kiri dan kanan meletakkan tangan ke tanah. Tanah di
+depan Asteron terangkat dalam lapisan-lapisan rendah, seolah sesuatu di
+bawahnya sedang memaksa jalan keluar.
+
+Sosok di tengah berdiri sedikit membungkuk. Gerakannya lambat, hampir
+seperti orang tua yang kelelahan. Kemudian nyala api berkumpul di kedua
+tangannya.
+
+Api itu tidak terbang menuju benteng.
+
+Ia mengalir masuk ke tanah yang telah dibuka oleh dua sosok lain.
+
+Rolan menurunkan teropong.
+
+"Eldren."
+
+Elf itu mengikuti arah pandangnya. Ia merasakan dua aliran Aethra yang
+berbeda bertemu di bawah dataran.
+
+Tanah.
+
+Api.
+
+"Mereka menggabungkannya," kata Eldren.
+
+Retakan di depan gerbang menyala merah. Batu yang terangkat mulai
+melunak, lalu mengalir perlahan menuju kaki tembok.
+
+"Pindahkan semua orang dari bagian bawah!" seru Rolan. "Sekarang!"
+
+Para prajurit menarik orang-orang yang masih menjaga fondasi. Aliran
+panas itu tidak mencapai gerbang utama, tetapi tanah di bawah tembok
+barat bergeser. Batu-batu yang selama enam hari menahan serangan
+akhirnya kehilangan pijakan.
+
+Tembok itu mengerang.
+
+------------------------------------------------------------------------
+
 Tembok luar bagian barat runtuh sebelum tengah hari.
 
 Pasukan Beta membanjiri celah.
@@ -1241,11 +1316,81 @@ Kemudian Orc.
 
 Kemudian yang lain.
 
+Sebuah gada menghantam perisai prajurit di sampingnya.
+
+Perisai itu patah. Prajuritnya terlempar ke antara batu-batu yang baru
+runtuh.
+
+Garling menoleh.
+
+Salah satu dari empat Oni telah memasuki celah.
+
+Ia tidak menyerbu seperti Ogre. Ia memilih bagian garis yang paling
+lemah, lalu menghantamnya lagi sebelum para pembela sempat menutup
+barisan.
+
+"Ke belakang!" seru Garling kepada para prajurit.
+
+Oni itu mengayunkan gada. Garling menangkis, tetapi kakinya tergelincir
+di atas batu lepas. Ia nyaris menerima pukulan berikutnya di kepala.
+
+Tiga prajurit menahan lengan Oni dengan tombak mereka.
+
+Hanya sesaat.
+
+Garling menggunakan saat itu untuk masuk ke sisi terbukanya dan
+menusukkan pedang di bawah pelindung leher.
+
+Oni pertama jatuh.
+
+Salah satu tombak prajurit telah patah. Seorang lainnya tidak bangun.
+
+Garling belum sempat menarik napas ketika sesuatu melesat melewati
+bahunya.
+
+Tombak panjang menancap pada pintu gudang di belakangnya.
+
+Oni kedua berjalan masuk dari jalan sempit di antara bangunan.
+
+"Masih ada tiga," kata seorang prajurit.
+
+"Sekarang dua setelah yang ini," jawab Garling.
+
+Ia berusaha membuatnya terdengar mudah.
+
+Oni bertombak itu tidak memberinya kesempatan mendekat. Setiap tusukan
+memaksa Garling mundur satu langkah, semakin jauh dari celah yang harus
+ia pertahankan.
+
+Anak panah Elf menghantam bahu Oni.
+
+Ia berhenti untuk mencabutnya.
+
+"Terlalu dangkal!" seru pemanah di atas puing.
+
+"Cukup!"
+
+Garling menerjang sebelum tombak itu kembali mengarah kepadanya.
+
+Ujungnya menggores rusuknya. Garling menahan batang tombak dengan tangan
+kirinya dan menebas di sela zirah lawan.
+
+Keduanya berhenti.
+
+Kemudian Oni itu roboh.
+
+Garling melepaskan tombak. Darah mengalir di sisi tubuhnya, dan untuk
+sesaat ia harus bersandar pada pedang agar tetap berdiri.
+
+Di luar celah, dua Oni yang tersisa tidak masuk menyusul.
+
+Mereka menunggu di sisi pasukan Raizen.
+
 Namun ini bukan Garling pada hari pertama.
 
 Napasnya berat.
 
-Zirahnya retak.
+Pelindung bahunya retak. Mantel biru tuanya robek dan berdebu.
 
 Setiap gerakan membuat luka lama kembali terbuka.
 
@@ -1262,6 +1407,9 @@ mereka mengikuti.
 Kemudian pasukan Beta berhenti.
 
 Satu demi satu mereka membuka jalan.
+
+Dua Oni yang tersisa bergerak ke kedua sisi celah, menahan para prajurit
+yang hendak mengikuti Garling.
 
 Raizen berjalan melewati mereka.
 
@@ -1632,7 +1780,57 @@ Selama beberapa detik---
 
 tidak ada suara.
 
-Kemudian sorakan meledak dari seluruh Asteron.
+Di sisi lain celah tembok, dua Oni yang masih hidup tidak menjatuhkan
+senjata.
+
+Mereka justru bergerak maju.
+
+"Formasi!" Rolan berseru, meskipun suaranya hampir habis.
+
+Ia tidak lagi sanggup memegang tombak. Namun panjinya yang patah masih
+dapat diangkat.
+
+Prajurit Eldoria menyambut dua Oni itu dengan perisai. Knight Solmaria
+menutup sisi kiri. Pemanah Elf memaksa salah satu Oni menunduk saat
+infanteri Auregrad maju dari kanan.
+
+Tidak ada satu serangan yang cukup untuk menjatuhkan keduanya.
+
+Tetapi untuk pertama kalinya hari itu, kedua Oni itu terpaksa mundur
+selangkah.
+
+Lalu selangkah lagi.
+
+Di bukit selatan, sosok tua yang tadi memegang api menatap tubuh Raizen
+di kejauhan.
+
+Nyala pada tangannya padam.
+
+"Gorzan?" tanya salah satu dari dua Vargan yang berdiri di sampingnya.
+
+Gorzan tidak segera menjawab.
+
+Tanah yang mereka angkat masih panas. Batu yang sempat mengalir mulai
+mengeras di depan tembok Asteron. Mereka bisa membuka jalan lain jika
+melanjutkan serangan.
+
+Di bawah bukit, pasukan Beta menunggu perintah.
+
+Gorzan akhirnya mengangkat satu tangan.
+
+"Mundur. Bawa yang masih bisa berjalan."
+
+Sangkakala dari selatan berbunyi.
+
+Dua Oni yang tersisa menghentikan serangan mereka. Mereka menahan garis
+sebentar untuk memberi jalan bagi pasukan yang keluar dari celah, lalu
+mundur bersama barisan Beta.
+
+Prajurit Asteron tidak mengejar.
+
+Mereka hampir tidak memiliki tenaga untuk tetap berdiri.
+
+Barulah sorakan meledak dari seluruh Asteron.
 
 Mereka menang.
 
@@ -1744,11 +1942,12 @@ Ia melepaskannya.
 
 ------------------------------------------------------------------------
 
-Malam itu, pasukan Beta mundur ke selatan.
+Malam itu, sisa pasukan Beta terus bergerak ke selatan di bawah perintah
+Gorzan.
 
 Tidak ada pengejaran.
 
-Pemimpin mereka telah mati.
+Raizen telah mati.
 
 Pasukan yang datang untuk membuka jalan menuju Eldoria pulang tanpa
 Demon Lord mereka.

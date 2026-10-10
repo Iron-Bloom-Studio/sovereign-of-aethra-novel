@@ -298,13 +298,19 @@ The door opened.
 
 Rolan turned.
 
-A man in silver-white armor stood in the doorway. His brown hair was disheveled from the journey. A scar crossed the left side of his face, passing over the eye without taking his sight.
+A man dressed like a seasoned, high-ranking Adventurer stood in the
+doorway. A dark blue coat edged in gold fell over his tunic and gear
+belts. Metal guards protected his shoulders, forearms, and legs without
+confining him in a full suit of armor. His brown hair was disheveled
+from the journey. A scar crossed the left side of his face, passing
+over the eye without taking his sight.
 
 Garling.
 
 Forty-seven Adventurers stood behind him.
 
-Yet everyone's attention went instead to the faint light visible through a gap in the armor near his shoulder.
+Yet everyone's attention went instead to the faint light visible
+beneath the guard at his shoulder.
 
 A luminous pattern marked his skin.
 
@@ -1080,17 +1086,35 @@ The figure drew closer.
 
 Only then could they see him clearly.
 
-He towered even among the Ogres.
+He stood nearly three meters tall, taller than anyone around him.
 
 Deep crimson skin.
 
 Long silver-white hair.
 
-Two black horns rising from his head.
+Two jet-black horns rising from his head.
 
 Layered dark armor covered his massive, muscular frame.
 
 A colossal kanabō rested in his hand.
+
+Four figures followed several paces behind him.
+
+They were smaller than he was, but no one on the wall mistook them for
+Orcs or Ogres.
+
+Horns. Battle armor. The way Beta soldiers cleared a path for them.
+
+Four Oni.
+
+Four generals who had not needed to show themselves at the front until
+now.
+
+An officer beside Rolan whispered, "So he isn't the only one."
+
+"No," Rolan said.
+
+And all four still carried their weapons.
 
 He stopped.
 
@@ -1168,6 +1192,59 @@ The final assault had begun.
 
 ---
 
+Rolan was moving the archers to the western wall when he saw the ground
+in front of the fortress shift.
+
+It wasn't the tread of thousands of feet.
+
+A narrow crack split the earth, then crept toward the wall's foundation.
+
+He raised his spyglass and searched beyond the Beta ranks.
+
+Far to the south, on a hill the battle had not yet reached, three figures
+stood apart from the rest of the army.
+
+At that distance, they were little more than silhouettes.
+
+The two on either side placed their hands against the ground. Layers of
+earth rose before Asteron, as though something beneath them were trying
+to force its way out.
+
+The figure in the middle stood with a slight stoop. His movements were
+slow, almost those of a weary old man. Then fire gathered in both his
+hands.
+
+It did not fly toward the fortress.
+
+It flowed into the earth the other two had opened.
+
+Rolan lowered the spyglass.
+
+"Eldren."
+
+The Elf followed his gaze. He felt two different currents of Aethra
+meeting beneath the plain.
+
+Earth.
+
+Fire.
+
+"They're combining them," Eldren said.
+
+The cracks before the gate glowed red. The risen stone began to soften,
+then crept toward the foot of the wall.
+
+"Get everyone away from the base!" Rolan shouted. "Now!"
+
+The soldiers pulled the remaining defenders back from the foundation.
+The molten rock never reached the main gate, but the ground beneath the
+western wall shifted. The stones that had held for six days lost their
+footing at last.
+
+The wall groaned.
+
+---
+
 The western outer wall collapsed before noon.
 
 Beta forces poured through the breach.
@@ -1182,11 +1259,80 @@ Then an Orc.
 
 Then another.
 
+A club smashed into the shield of a soldier beside him.
+
+The shield broke. Its bearer flew into the stones that had just fallen
+from the wall.
+
+Garling turned.
+
+One of the four Oni had entered the breach.
+
+He did not charge like an Ogre. He picked the weakest point in the line
+and struck it again before the defenders could close ranks.
+
+"Fall back!" Garling shouted to the soldiers.
+
+The Oni swung his club. Garling parried, but his foot slipped on loose
+stone. The next blow almost caught him in the head.
+
+Three soldiers pinned the Oni's arm with their spears.
+
+Only for a moment.
+
+Garling took that moment to step inside his reach and drive his sword
+beneath the guard at his neck.
+
+The first Oni fell.
+
+One soldier's spear had snapped. Another soldier did not get up.
+
+Garling had yet to catch his breath when something flew past his
+shoulder.
+
+A long spear buried itself in the door of the storehouse behind him.
+
+The second Oni came down the narrow lane between the buildings.
+
+"Three more," a soldier said.
+
+"Two after this one," Garling replied.
+
+He tried to make it sound easy.
+
+The spearman gave him no opening to close the distance. Each thrust
+forced Garling back another step, farther from the breach he needed to
+hold.
+
+An Elven arrow struck the Oni's shoulder.
+
+He paused to pull it free.
+
+"Too shallow!" the archer called from the rubble.
+
+"Enough!"
+
+Garling rushed him before the spear could turn his way again.
+
+Its tip grazed his ribs. Garling caught the shaft in his left hand and
+cut through a gap in the Oni's armor.
+
+For a moment, neither moved.
+
+Then the Oni collapsed.
+
+Garling let go of the spear. Blood ran down his side, and for a moment
+he had to lean on his sword to remain standing.
+
+Outside the breach, the two remaining Oni did not follow.
+
+They waited beside Raizen's forces.
+
 But this was not the Garling of the first day.
 
 His breathing was heavy.
 
-His armor was cracked.
+One shoulder guard was cracked. His dark blue coat was torn and dusty.
 
 Every movement tore old wounds open again.
 
@@ -1203,6 +1349,9 @@ they followed.
 Then the Beta soldiers stopped.
 
 One by one, they opened a path.
+
+The two remaining Oni moved to either side of the breach, holding back
+the soldiers who might have followed Garling.
 
 Raizen walked through them.
 
@@ -1570,7 +1719,56 @@ For several seconds—
 
 there was no sound.
 
-Then cheers erupted across Asteron.
+On the far side of the broken wall, the two surviving Oni had not laid
+down their weapons.
+
+They advanced instead.
+
+"Form ranks!" Rolan called, though he had almost no voice left.
+
+He could no longer hold a spear. But he could still raise his broken
+banner.
+
+Eldorian soldiers met the Oni with shields. Solmarian Knights closed
+the left flank. Elven archers forced one Oni to duck as Auregrad's
+infantry advanced from the right.
+
+No single blow was enough to bring either of them down.
+
+But for the first time that day, both Oni were forced back a step.
+
+Then another.
+
+On the southern hill, the old figure who had wielded fire looked toward
+Raizen's body in the distance.
+
+The flames around his hands went out.
+
+"Gorzan?" asked one of the two Vargan beside him.
+
+Gorzan did not answer at once.
+
+The earth they had raised was still hot. Stone that had flowed was
+hardening in front of Asteron's wall. They could open another path if
+they continued the assault.
+
+Below the hill, the Beta army waited for an order.
+
+At last, Gorzan raised one hand.
+
+"Withdraw. Bring back everyone who can still walk."
+
+A horn sounded from the south.
+
+The two remaining Oni stopped their advance. They held the line long
+enough for the soldiers in the breach to fall back, then withdrew with
+the Beta ranks.
+
+Asteron's defenders did not pursue them.
+
+Most barely had the strength to stand.
+
+Only then did cheers erupt across Asteron.
 
 They had won.
 
@@ -1680,11 +1878,12 @@ He released him.
 
 ---
 
-That night, the Beta army withdrew south.
+That night, what remained of the Beta army continued south under
+Gorzan's command.
 
 There was no pursuit.
 
-Their leader was dead.
+Raizen was dead.
 
 The army that had come to open the road into Eldoria returned without its Demon Lord.
 
