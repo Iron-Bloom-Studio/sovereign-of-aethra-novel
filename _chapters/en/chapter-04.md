@@ -5,6 +5,8 @@ chapter_id: chapter-04
 type: Chapter 4
 previous_url: /read/en/chapter-03/
 previous_label: "Chapter 3"
+next_url: /read/en/chapter-05/
+next_label: "Chapter 5"
 ---
 # Chapter 4: A Friend
 
