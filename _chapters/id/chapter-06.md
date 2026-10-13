@@ -5,6 +5,8 @@ chapter_id: chapter-06
 type: Chapter 6
 previous_url: /read/id/chapter-05/
 previous_label: "Chapter 5"
+next_url: /read/id/chapter-07/
+next_label: "Chapter 7"
 ---
 # Chapter 6: Resonansi
 
