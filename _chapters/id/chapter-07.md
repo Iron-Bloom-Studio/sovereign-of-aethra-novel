@@ -5,6 +5,8 @@ chapter_id: chapter-07
 type: Chapter 7
 previous_url: /read/id/chapter-06/
 previous_label: "Chapter 6"
+next_url: /read/id/chapter-08/
+next_label: "Chapter 8"
 ---
 # Chapter 7: Orang-Orang Asing di Reruntuhan
 
