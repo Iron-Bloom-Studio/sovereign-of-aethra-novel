@@ -5,6 +5,8 @@ chapter_id: chapter-08
 type: Chapter 8
 previous_url: /read/id/chapter-07/
 previous_label: "Chapter 7"
+next_url: /read/id/chapter-09/
+next_label: "Chapter 9"
 ---
 # Chapter 8: Open Road
 
