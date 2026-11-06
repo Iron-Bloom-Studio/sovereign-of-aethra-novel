@@ -7,7 +7,7 @@ const drawer=document.querySelector('.book-drawer'),dialog=document.querySelecto
 let chapter=Number(localStorage.getItem('soaBookChapter-'+lang)||0),page=Number(localStorage.getItem('soaBookPage-'+lang)||0);
 let pages=[],cache=new Map(),turning=false;
 const mobile=()=>matchMedia('(max-width:850px)').matches;
-const escape=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const escape=s=>s.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function cover(item){return '<div class="chapter-cover"><p class="kicker">'+escape(item.label)+'</p><h1>'+escape(item.title)+'</h1>'+(item.order>=12?'<p class="draft">'+(lang==='en'?'Volume I complete draft':'Draf lengkap Volume I')+'</p>':'')+'</div>'}
 function makePages(doc,item){
  const root=doc.querySelector('.chapter-prose')||doc.querySelector('article')||doc.body;
@@ -53,7 +53,7 @@ document.querySelector('[data-action=contents]').onclick=()=>{drawer.classList.a
 document.querySelectorAll('[data-action=close-drawer]').forEach(x=>x.onclick=()=>{drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true')});
 document.querySelectorAll('[data-chapter]').forEach(x=>x.onclick=()=>{drawer.classList.remove('open');load(+x.dataset.chapter,0)});
 document.querySelector('[data-action=fullscreen]').onclick=()=>document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen();
-const themes=['','theme-sepia','theme-dark'];let ti=Number(localStorage.soaBookTheme||0);document.body.classList.add(themes[ti]);
+const themes=['','theme-sepia','theme-dark'];let ti=Number(localStorage.soaBookTheme||0);if(themes[ti])document.body.classList.add(themes[ti]);
 document.querySelector('[data-action=theme]').onclick=()=>{document.body.classList.remove(...themes.filter(Boolean));ti=(ti+1)%themes.length;if(themes[ti])document.body.classList.add(themes[ti]);localStorage.soaBookTheme=ti};
 addEventListener('keydown',e=>{if(dialog.open)return;if(e.key==='ArrowRight'||e.key==='PageDown')turn(1);if(e.key==='ArrowLeft'||e.key==='PageUp')turn(-1)});
 let sx=0;document.querySelector('.book-shell').addEventListener('touchstart',e=>sx=e.touches[0].clientX,{passive:true});document.querySelector('.book-shell').addEventListener('touchend',e=>{const d=e.changedTouches[0].clientX-sx;if(Math.abs(d)>45)turn(d<0?1:-1)},{passive:true});
