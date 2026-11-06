@@ -2,6 +2,12 @@
 
 Public bilingual illustrated-novel reader for *Sovereign of Aethra*. The SOA Wiki remains the separate encyclopedia and lore experience.
 
+## Read online
+
+- [Animated bilingual book](https://fictional-adventure-een2715.pages.github.io/book/)
+- [Indonesian scroll edition](https://fictional-adventure-een2715.pages.github.io/read/)
+- [English scroll edition](https://fictional-adventure-een2715.pages.github.io/read/en/)
+
 ## Editions
 
 - [Indonesian edition](_chapters/id/prologue.md)
@@ -9,7 +15,7 @@ Public bilingual illustrated-novel reader for *Sovereign of Aethra*. The SOA Wik
 
 ## Status
 
-The Indonesian and English Prologues are approved final manuscript versions. Approved manuscript prose must not be automatically rewritten; only minimal front matter is added for rendering.
+Volume I contains the Prologue, Chapters 1–40, and an Epilogue in Indonesian and English. Chapters 12–40 and the Epilogue are published as a complete continuity-review draft.
 
 ## Adding content
 
@@ -17,6 +23,4 @@ Add public chapters under `_chapters/<language>/` and keep matching chapter IDs 
 
 ## Development and deployment
 
-GitHub Pages builds this Jekyll site. To preview locally, run `bundle exec jekyll serve --baseurl ""` in a compatible Ruby/Jekyll environment. The expected public URL is `https://iron-bloom-studio.github.io/sovereign-of-aethra-novel/`.
-
-If Pages is not enabled, select **Settings → Pages → Deploy from a branch → main → /(root)** in GitHub.
+GitHub Pages builds this Jekyll site from `main` and `/(root)`. To preview locally, run `bundle exec jekyll serve --baseurl ""` in a compatible Ruby/Jekyll environment.
