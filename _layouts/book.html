@@ -65,7 +65,7 @@ layout: null
     "url": "{% if page.language == 'en' %}{{ '/read/en/' | append: chapter.slug | append: '/' | relative_url }}{% else %}{{ '/read/id/' | append: chapter.slug | append: '/' | relative_url }}{% endif %}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
   ]</script>
-  <script src="{{ '/assets/js/book.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/book.js?v=2' | relative_url }}"></script>
 </body>
 </html>
 
