@@ -1,7 +1,7 @@
 title: Sovereign of Aethra
 description: An Illustrated Fantasy Novel by Ironbloom Studio.
-url: https://fictional-adventure-een2715.pages.github.io
-baseurl: ""
+url: https://iron-bloom-studio.github.io
+baseurl: "/sovereign-of-aethra-novel"
 wiki_url: https://iron-bloom-studio.github.io/sovereign-of-aethra-wiki/
 markdown: kramdown
 permalink: pretty
