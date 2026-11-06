@@ -4,9 +4,9 @@ Public bilingual illustrated-novel reader for *Sovereign of Aethra*. The SOA Wik
 
 ## Read online
 
-- [Animated bilingual book](https://fictional-adventure-een2715.pages.github.io/book/)
-- [Indonesian scroll edition](https://fictional-adventure-een2715.pages.github.io/read/)
-- [English scroll edition](https://fictional-adventure-een2715.pages.github.io/read/en/)
+- [Animated bilingual book](https://iron-bloom-studio.github.io/sovereign-of-aethra-novel/book/)
+- [Indonesian scroll edition](https://iron-bloom-studio.github.io/sovereign-of-aethra-novel/read/)
+- [English scroll edition](https://iron-bloom-studio.github.io/sovereign-of-aethra-novel/read/en/)
 
 ## Editions
 
@@ -23,4 +23,4 @@ Add public chapters under `_chapters/<language>/` and keep matching chapter IDs 
 
 ## Development and deployment
 
-GitHub Pages builds this Jekyll site from `main` and `/(root)`. To preview locally, run `bundle exec jekyll serve --baseurl ""` in a compatible Ruby/Jekyll environment.
+GitHub Pages builds this Jekyll site from `main` and `/(root)`. To preview locally, run `bundle exec jekyll serve --baseurl "/sovereign-of-aethra-novel"` in a compatible Ruby/Jekyll environment.
