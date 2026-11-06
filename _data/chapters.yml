@@ -1,0 +1,253 @@
+- order: 0
+  slug: prologue
+  label_id: Prolog
+  label_en: Prologue
+  title_id: Pertempuran Asteron
+  title_en: The Battle of Asteron
+- order: 1
+  slug: chapter-01
+  label_id: Bab 1
+  label_en: Chapter 1
+  title_id: "Jalan Melampaui Rumah"
+  title_en: "The Road Beyond Home"
+- order: 2
+  slug: chapter-02
+  label_id: Bab 2
+  label_en: Chapter 2
+  title_id: "Kota Tanpa Mahkota"
+  title_en: "The City Without a Crown"
+- order: 3
+  slug: chapter-03
+  label_id: Bab 3
+  label_en: Chapter 3
+  title_id: "Tanda Petualang"
+  title_en: "The Adventurer's Mark"
+- order: 4
+  slug: chapter-04
+  label_id: Bab 4
+  label_en: Chapter 4
+  title_id: "Seorang Teman"
+  title_en: "A Friend"
+- order: 5
+  slug: chapter-05
+  label_id: Bab 5
+  label_en: Chapter 5
+  title_id: "Kesaksian"
+  title_en: "Testimony"
+- order: 6
+  slug: chapter-06
+  label_id: Bab 6
+  label_en: Chapter 6
+  title_id: "Resonansi"
+  title_en: "Resonance"
+- order: 7
+  slug: chapter-07
+  label_id: Bab 7
+  label_en: Chapter 7
+  title_id: "Orang Asing di Reruntuhan"
+  title_en: "Strangers at the Ruins"
+- order: 8
+  slug: chapter-08
+  label_id: Bab 8
+  label_en: Chapter 8
+  title_id: "Open Road"
+  title_en: "Open Road"
+- order: 9
+  slug: chapter-09
+  label_id: Bab 9
+  label_en: Chapter 9
+  title_id: "Setelah Reruntuhan"
+  title_en: "After the Ruins"
+- order: 10
+  slug: chapter-10
+  label_id: Bab 10
+  label_en: Chapter 10
+  title_id: "Jalan Lama"
+  title_en: "The Old Road"
+- order: 11
+  slug: chapter-11
+  label_id: Bab 11
+  label_en: Chapter 11
+  title_id: "Jejak yang Disembunyikan"
+  title_en: "The Hidden Trail"
+- order: 12
+  slug: chapter-12
+  label_id: Bab 12
+  label_en: Chapter 12
+  title_id: "Panggilan Menara"
+  title_en: "The Tower's Call"
+- order: 13
+  slug: chapter-13
+  label_id: Bab 13
+  label_en: Chapter 13
+  title_id: "Jalan Menuju Asteron"
+  title_en: "The Road to Asteron"
+- order: 14
+  slug: chapter-14
+  label_id: Bab 14
+  label_en: Chapter 14
+  title_id: "Kota yang Menunggu"
+  title_en: "The City That Waited"
+- order: 15
+  slug: chapter-15
+  label_id: Bab 15
+  label_en: Chapter 15
+  title_id: "Jantung di Bawah Batu"
+  title_en: "The Heart Beneath Stone"
+- order: 16
+  slug: chapter-16
+  label_id: Bab 16
+  label_en: Chapter 16
+  title_id: "Lima Benang"
+  title_en: "Five Threads"
+- order: 17
+  slug: chapter-17
+  label_id: Bab 17
+  label_en: Chapter 17
+  title_id: "Asteron"
+  title_en: "Asteron"
+- order: 18
+  slug: chapter-18
+  label_id: Bab 18
+  label_en: Chapter 18
+  title_id: "Mereka yang Pulang"
+  title_en: "Those Who Returned"
+- order: 19
+  slug: chapter-19
+  label_id: Bab 19
+  label_en: Chapter 19
+  title_id: "Makam di Selatan"
+  title_en: "The Grave in the South"
+- order: 20
+  slug: chapter-20
+  label_id: Bab 20
+  label_en: Chapter 20
+  title_id: "Putri Demon Lord"
+  title_en: "The Demon Lord's Daughter"
+- order: 21
+  slug: chapter-21
+  label_id: Bab 21
+  label_en: Chapter 21
+  title_id: "Darah di Atas Batu"
+  title_en: "Blood on Stone"
+- order: 22
+  slug: chapter-22
+  label_id: Bab 22
+  label_en: Chapter 22
+  title_id: "Kebenaran yang Tertinggal"
+  title_en: "The Truth Left Behind"
+- order: 23
+  slug: chapter-23
+  label_id: Bab 23
+  label_en: Chapter 23
+  title_id: "Musuh yang Tidak Jadi Datang"
+  title_en: "The Enemy Who Did Not Come"
+- order: 24
+  slug: chapter-24
+  label_id: Bab 24
+  label_en: Chapter 24
+  title_id: "Raja Sementara"
+  title_en: "The Acting King"
+- order: 25
+  slug: chapter-25
+  label_id: Bab 25
+  label_en: Chapter 25
+  title_id: "Warisan Raizen"
+  title_en: "Raizen's Legacy"
+- order: 26
+  slug: chapter-26
+  label_id: Bab 26
+  label_en: Chapter 26
+  title_id: "Sigil yang Tidak Menjawab"
+  title_en: "The Sigil That Would Not Answer"
+- order: 27
+  slug: chapter-27
+  label_id: Bab 27
+  label_en: Chapter 27
+  title_id: "Mereka yang Dipaksa Tunduk"
+  title_en: "Those Forced to Kneel"
+- order: 28
+  slug: chapter-28
+  label_id: Bab 28
+  label_en: Chapter 28
+  title_id: "Ultimatum untuk Asteron"
+  title_en: "Ultimatum for Asteron"
+- order: 29
+  slug: chapter-29
+  label_id: Bab 29
+  label_en: Chapter 29
+  title_id: "Pilihan Reika"
+  title_en: "Reika's Choice"
+- order: 30
+  slug: chapter-30
+  label_id: Bab 30
+  label_en: Chapter 30
+  title_id: "Api dari Selatan"
+  title_en: "Fire from the South"
+- order: 31
+  slug: chapter-31
+  label_id: Bab 31
+  label_en: Chapter 31
+  title_id: "Open Road Melawan Beta"
+  title_en: "Open Road Against Beta"
+- order: 32
+  slug: chapter-32
+  label_id: Bab 32
+  label_en: Chapter 32
+  title_id: "Suara Putri Raizen"
+  title_en: "The Voice of Raizen's Daughter"
+- order: 33
+  slug: chapter-33
+  label_id: Bab 33
+  label_en: Chapter 33
+  title_id: "Mereka yang Berbalik"
+  title_en: "Those Who Turned"
+- order: 34
+  slug: chapter-34
+  label_id: Bab 34
+  label_en: Chapter 34
+  title_id: "Panggilan Sang Leviathan"
+  title_en: "The Leviathan's Call"
+- order: 35
+  slug: chapter-35
+  label_id: Bab 35
+  label_en: Chapter 35
+  title_id: "Leviathan di Atas Asteron"
+  title_en: "Leviathan Above Asteron"
+- order: 36
+  slug: chapter-36
+  label_id: Bab 36
+  label_en: Chapter 36
+  title_id: "Leviathan Covenant"
+  title_en: "Leviathan Covenant"
+- order: 37
+  slug: chapter-37
+  label_id: Bab 37
+  label_en: Chapter 37
+  title_id: "Jatuhnya Vhargos"
+  title_en: "The Fall of Vhargos"
+- order: 38
+  slug: chapter-38
+  label_id: Bab 38
+  label_en: Chapter 38
+  title_id: "Binding Reversal"
+  title_en: "Binding Reversal"
+- order: 39
+  slug: chapter-39
+  label_id: Bab 39
+  label_en: Chapter 39
+  title_id: "Api yang Tidak Bisa Ditanggung"
+  title_en: "Fire No Body Could Bear"
+- order: 40
+  slug: chapter-40
+  label_id: Bab 40
+  label_en: Chapter 40
+  title_id: "Asteron Bernapas Kembali"
+  title_en: "Asteron Breathes Again"
+- order: 41
+  slug: epilogue
+  label_id: Epilog
+  label_en: Epilogue
+  title_id: "Bayangan yang Belum Tiba"
+  title_en: "The Shadow Yet to Come"
+

@@ -5,6 +5,8 @@ chapter_id: chapter-09
 type: Chapter 9
 previous_url: /read/en/chapter-08/
 previous_label: "Chapter 8"
+next_url: /read/en/chapter-10/
+next_label: "Chapter 10"
 ---
 # Sovereign of Aethra
 
@@ -601,3 +603,4 @@ For the first time as a complete party, Open Road left the safety of Arklune beh
 And the road ahead began to turn southwest.
 
 **End of Chapter 9**
+

@@ -1,0 +1,71 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="{{ page.language | default: 'id' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <meta name="description" content="Sovereign of Aethra Volume I bilingual book reader">
+  <link rel="stylesheet" href="{{ '/assets/css/book.css' | relative_url }}">
+</head>
+<body class="book-app" data-language="{{ page.language | default: 'id' }}">
+  <header class="book-topbar">
+    <a class="book-brand" href="{{ '/' | relative_url }}">SOVEREIGN <span>OF AETHRA</span></a>
+    <div class="book-top-actions">
+      <button type="button" data-action="search" aria-label="Search">⌕</button>
+      <a class="language-switch" href="{% if page.language == 'en' %}{{ '/book/' | relative_url }}{% else %}{{ '/book/en/' | relative_url }}{% endif %}">{% if page.language == 'en' %}ID{% else %}EN{% endif %}</a>
+    </div>
+  </header>
+
+  <aside class="book-drawer" aria-hidden="true">
+    <div class="drawer-head"><strong>{% if page.language == 'en' %}Contents{% else %}Daftar Isi{% endif %}</strong><button data-action="close-drawer">×</button></div>
+    <nav class="drawer-list">
+      {% for chapter in site.data.chapters %}
+      <button data-chapter="{{ forloop.index0 }}"><span>{% if page.language == 'en' %}{{ chapter.label_en }}{% else %}{{ chapter.label_id }}{% endif %}</span><b>{% if page.language == 'en' %}{{ chapter.title_en }}{% else %}{{ chapter.title_id }}{% endif %}</b></button>
+      {% endfor %}
+    </nav>
+  </aside>
+  <div class="drawer-scrim" data-action="close-drawer"></div>
+
+  <main class="book-workspace">
+    <section class="book-shell" aria-live="polite">
+      <div class="book-spine"></div>
+      <article class="paper-page left-page"></article>
+      <article class="paper-page right-page"></article>
+      <div class="page-loader" hidden>{% if page.language == 'en' %}Opening chapter…{% else %}Membuka bab…{% endif %}</div>
+    </section>
+  </main>
+
+  <footer class="book-toolbar">
+    <button data-action="contents" title="Contents">☰</button>
+    <button data-action="prev" title="Previous page">‹</button>
+    <span class="page-status">— / —</span>
+    <button data-action="next" title="Next page">›</button>
+    <button data-action="theme" title="Theme">◐</button>
+    <button data-action="fullscreen" title="Fullscreen">⛶</button>
+    <a href="{% if page.language == 'en' %}{{ '/read/en/' | relative_url }}{% else %}{{ '/read/' | relative_url }}{% endif %}" title="Scroll reader">↕</a>
+  </footer>
+
+  <dialog class="search-dialog">
+    <form method="dialog" class="search-head">
+      <input type="search" placeholder="{% if page.language == 'en' %}Search Volume I…{% else %}Cari Volume I…{% endif %}" data-search-input>
+      <button value="cancel">×</button>
+    </form>
+    <div class="search-results"></div>
+  </dialog>
+
+  <script id="book-manifest" type="application/json">[
+  {% for chapter in site.data.chapters %}{
+    "order": {{ chapter.order }},
+    "slug": "{{ chapter.slug }}",
+    "label": "{% if page.language == 'en' %}{{ chapter.label_en }}{% else %}{{ chapter.label_id }}{% endif %}",
+    "title": "{% if page.language == 'en' %}{{ chapter.title_en | escape }}{% else %}{{ chapter.title_id | escape }}{% endif %}",
+    "url": "{% if page.language == 'en' %}{{ '/read/en/' | append: chapter.slug | append: '/' | relative_url }}{% else %}{{ '/read/id/' | append: chapter.slug | append: '/' | relative_url }}{% endif %}"
+  }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]</script>
+  <script src="{{ '/assets/js/book.js' | relative_url }}"></script>
+</body>
+</html>
+

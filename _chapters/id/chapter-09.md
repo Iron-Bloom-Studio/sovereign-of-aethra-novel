@@ -5,6 +5,8 @@ chapter_id: chapter-09
 type: Chapter 9
 previous_url: /read/id/chapter-08/
 previous_label: "Chapter 8"
+next_url: /read/id/chapter-10/
+next_label: "Chapter 10"
 ---
 # Sovereign of Aethra
 
@@ -601,3 +603,4 @@ Untuk pertama kalinya sebagai party lengkap, Open Road meninggalkan wilayah aman
 Dan jalan di depan mereka mulai berbelok ke barat daya.
 
 **End of Chapter 9**
+
