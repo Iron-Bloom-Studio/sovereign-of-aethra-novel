@@ -18,6 +18,10 @@ Vhargos’s shadow covered Asteron.
 
 The civilians sheltered in Core tunnels. Serena stood at the gate, tiny beneath a creature the size of a hill.
 
+<figure class="novel-illustration book-right-page" data-book-page="right">
+  <img src="{{ '/assets/novel/vhargos-first-appearance.webp' | relative_url }}" alt="Vhargos looming over Asteron, its colossal whale-shaped body covered in stone scales and boiling steam.">
+</figure>
+
 “Do not stop all of it,” Luca warned.
 
 “I know.”

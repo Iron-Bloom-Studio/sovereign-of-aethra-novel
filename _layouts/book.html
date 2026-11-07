@@ -34,6 +34,7 @@ layout: null
       <div class="book-spine"></div>
       <article class="paper-page left-page"></article>
       <article class="paper-page right-page"></article>
+      <div class="turn-sheet" aria-hidden="true"><div class="turn-face turn-front"></div><div class="turn-face turn-back"></div></div>
       <div class="page-loader" hidden>{% if page.language == 'en' %}Opening chapter…{% else %}Membuka bab…{% endif %}</div>
     </section>
   </main>
@@ -65,7 +66,7 @@ layout: null
     "url": "{% if page.language == 'en' %}{{ '/read/en/' | append: chapter.slug | append: '/' | relative_url }}{% else %}{{ '/read/id/' | append: chapter.slug | append: '/' | relative_url }}{% endif %}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
   ]</script>
-  <script src="{{ '/assets/js/book.js?v=2' | relative_url }}"></script>
+  <script src="{{ '/assets/js/book.js?v=3' | relative_url }}"></script>
 </body>
 </html>
 
