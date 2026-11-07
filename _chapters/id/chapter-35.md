@@ -18,6 +18,10 @@ Bayangan Vhargos menutupi Asteron.
 
 Warga yang tersisa berlindung di terowongan Core. Serena berdiri di gerbang, kecil di bawah makhluk sebesar bukit.
 
+<figure class="novel-illustration book-right-page" data-book-page="right">
+  <img src="{{ '/assets/novel/vhargos-first-appearance.webp' | relative_url }}" alt="Vhargos menaungi Asteron, tubuh paus raksasanya tertutup sisik batu dan uap panas.">
+</figure>
+
 “Jangan menahan seluruhnya,” kata Luca.
 
 “Aku tahu.”
