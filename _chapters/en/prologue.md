@@ -1744,7 +1744,7 @@ Raizen's body in the distance.
 
 The flames around his hands went out.
 
-"Gorzan?" asked one of the two Vargan beside him.
+"Gorzan?" asked one of the two Oni Magus guards beside him.
 
 Gorzan did not answer at once.
 
