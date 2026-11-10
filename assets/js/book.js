@@ -23,7 +23,7 @@ function makePages(doc,item){
  const isMobile=mobile();
  const root=doc.querySelector('.chapter-prose')||doc.querySelector('article')||doc.body;
  const nodes=[...root.children].filter(n=>!(/^H1$|^H2$/.test(n.tagName)));
- const limit=isMobile?1250:1550;
+ const limit=isMobile?850:1050;
  let out=isMobile?[cover(item)]:[blank(),cover(item)],buf='',count=0;
  const flush=()=>{if(buf){out.push({type:'text',html:buf});buf='';count=0}};
  for(const n of nodes){
@@ -35,14 +35,8 @@ function makePages(doc,item){
    }
    let html=n.outerHTML||'<p>'+escape(n.textContent)+'</p>',len=n.textContent.trim().length;
    if(buf&&count+len>limit)flush();
-   if(len>limit&&n.tagName==='P'){
-     const words=n.textContent.trim().split(/\s+/);let part='';
-     for(const w of words){
-       if((part+' '+w).length>limit){flush();out.push({type:'text',html:'<p>'+escape(part)+'</p>'});part=w}
-       else part+=(part?' ':'')+w;
-     }
-     if(part){buf+='<p>'+escape(part)+'</p>';count+=part.length}
-   }else{buf+=html;count+=len}
+   // Keep each source paragraph intact; start it on a new book page when needed.
+   buf+=html;count+=len
  }
  flush();return out;
 }
