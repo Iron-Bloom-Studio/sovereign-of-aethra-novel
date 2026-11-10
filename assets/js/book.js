@@ -23,9 +23,14 @@ function makePages(doc,item){
  const isMobile=mobile();
  const root=doc.querySelector('.chapter-prose')||doc.querySelector('article')||doc.body;
  const nodes=[...root.children].filter(n=>!(/^H1$|^H2$/.test(n.tagName)));
- const limit=isMobile?850:1050;
+ const fallbackLimit=isMobile?650:780;
  let out=isMobile?[cover(item)]:[blank(),cover(item)],buf='',count=0;
- const flush=()=>{if(buf){out.push({type:'text',html:buf});buf='';count=0}};
+ const shell=document.querySelector('.book-shell');
+ const probe=document.createElement('article');
+ probe.className='paper-page pagination-probe';
+ shell.appendChild(probe);
+ const canMeasure=probe.clientWidth>0&&probe.clientHeight>0;
+ const flush=()=>{if(buf){out.push({type:'text',html:buf});buf='';count=0;probe.innerHTML=''}};
  for(const n of nodes){
    if(n.matches?.('.novel-illustration[data-book-page="right"],.novel-illustration.book-right-page')){
      flush();
@@ -33,12 +38,21 @@ function makePages(doc,item){
      if(!isMobile&&out.length%2===0)out.push(blank());
      out.push(art);continue;
    }
-   let html=n.outerHTML||'<p>'+escape(n.textContent)+'</p>',len=n.textContent.trim().length;
-   if(buf&&count+len>limit)flush();
-   // Keep each source paragraph intact; start it on a new book page when needed.
-   buf+=html;count+=len
+   const html=n.outerHTML||'<p>'+escape(n.textContent)+'</p>';
+   const len=n.textContent.trim().length;
+   if(canMeasure){
+     probe.innerHTML=buf+html;
+     if(buf&&probe.scrollHeight>probe.clientHeight){
+       flush();
+       probe.innerHTML=html;
+     }
+   }else if(buf&&count+len>fallbackLimit){
+     flush();
+   }
+   // A paragraph is always kept intact and moves wholly to the next page.
+   buf+=html;count+=len;
  }
- flush();return out;
+ flush();probe.remove();return out;
 }
 async function load(index,desired=0){
  chapter=Math.max(0,Math.min(manifest.length-1,index));loader.hidden=false;
