@@ -8,7 +8,7 @@ layout: null
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <title>{{ page.title }} — {{ site.title }}</title>
   <meta name="description" content="Sovereign of Aethra Volume I bilingual book reader">
-  <link rel="stylesheet" href="{{ '/assets/css/book.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/book.css' | relative_url }}?v={{ site.github.build_revision | default: site.time | date: '%s' }}">
 </head>
 <body class="book-app" data-language="{{ page.language | default: 'id' }}">
   <header class="book-topbar">
