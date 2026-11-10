@@ -1806,7 +1806,7 @@ di kejauhan.
 
 Nyala pada tangannya padam.
 
-"Gorzan?" tanya salah satu dari dua Vargan yang berdiri di sampingnya.
+"Gorzan?" tanya salah satu dari dua pengawal Oni Magus yang berdiri di sampingnya.
 
 Gorzan tidak segera menjawab.
 
